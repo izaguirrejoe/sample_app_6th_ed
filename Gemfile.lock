@@ -272,4 +272,4 @@ DEPENDENCIES
   webpacker (= 4.2.2)
 
 BUNDLED WITH
-   1.17.2
+   2.2.3
